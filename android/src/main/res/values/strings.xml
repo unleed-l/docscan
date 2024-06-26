@@ -1,19 +1,19 @@
 <resources>
     <string name="app_name">EdgeDetection</string>
-    <string name="camera_grant">Grant camera permission!</string>
-    <string name="press_again_logout">Press back again.</string>
-    <string name="crop">Crop</string>
-    <string name="save">Save</string>
-    <string name="export">Export</string>
-    <string name="delete">Delete</string>
-    <string name="enhance">Enhance</string>
-    <string name="black">Black White</string>
-    <string name="rotate">Rotate</string>
-    <string name="reset">Reset</string>
-    <string name="scan">Scan Effect</string>
-    <string name="skip_crop">Skip Crop</string>
-    <string name="matt">Color Effect</string>
+    <string name="camera_grant">Permita o acesso à câmera</string>
+    <string name="press_again_logout">Pressione voltar novamente.</string>
+    <string name="crop">Corta</string>
+    <string name="save">Salvar</string>
+    <string name="export">Exportar</string>
+    <string name="delete">Deletar</string>
+    <string name="enhance">Melhorar</string>
+    <string name="black">Preto/Branco</string>
+    <string name="rotate">Girar</string>
+    <string name="reset">Resetar</string>
+    <string name="scan">Efeito escaneado</string>
+    <string name="skip_crop">Pular corte</string>
+    <string name="matt">Efeito de cor</string>
 
-    <string name="next">Next</string>
-    <string name="done">Done</string>
+    <string name="next">Próximo</string>
+    <string name="done">Finalizar</string>
 </resources>
