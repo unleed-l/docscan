@@ -2,7 +2,7 @@
     <string name="app_name">EdgeDetection</string>
     <string name="camera_grant">Permita o acesso à câmera</string>
     <string name="press_again_logout">Pressione voltar novamente.</string>
-    <string name="crop">Corta</string>
+    <string name="crop">Cortar</string>
     <string name="save">Salvar</string>
     <string name="export">Exportar</string>
     <string name="delete">Deletar</string>
